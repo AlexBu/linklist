@@ -11551,7 +11551,7 @@ ed2k://|file|[2006.02.09]National.Geographic.Channel.-.猎人猎物：致命蛇�
 ed2k://|file|[2006.02.09]Discovery.Channel.-.FBI.档案：毒贩横行.[D4C2EAB4].avi|366528512|341aefa7fb81f7459052dfd8b1ae9ee0|h=HEXQK5KXLWU5OF3MBPPX3CRF4PTZPXKA|/
 ed2k://|file|[2006.02.09]Discovery.Channel.-.科技大排行：强力机具.[113EA09C].avi|366325760|1468fff2bbc66a7b06d00f01a458e4ce|h=KXQ5XPVZZYUMCFOGEWBC5E7WZ5Q6JYYA|/
 ed2k://|file|[2006.02.08]Discovery.Channel.-.抗灾建筑：防震工程(台湾九二一相关).[86EFEEC1].avi|366454784|31f90ab08f4b2bd776b5f25609dd0e71|h=6CFWHJKPADCWWND5LNW3JPUDZC2JYM5X|/
-0,ed2k://|file|[2006.02.07]Discovery.Channel.-.鬼影森森：湖畔魅影.[FC2130AA].avi|366342144|aea82e4012e6e2563fb4b1d2514280a2|h=QTIXZ5D7YOL2KWBGY35XAG7OSKGLOJ3T|/
+1,ed2k://|file|[2006.02.07]Discovery.Channel.-.鬼影森森：湖畔魅影.[FC2130AA].avi|366342144|aea82e4012e6e2563fb4b1d2514280a2|h=QTIXZ5D7YOL2KWBGY35XAG7OSKGLOJ3T|/
 ed2k://|file|[2006.02.07]Discovery.Channel.-.流言终结者：子弹授孕.[60C1A9AA].avi|366338048|f5db4ecccb3fb70a805d5d7292af732b|h=NECJWVXHMNQ653F67PWBCARUEAXAJXDA|/
 ed2k://|file|[2006.02.06]National.Geographic.Channel.-.神秘中国：女性定位.[52ECF6CC].avi|366540800|437d4d41161caed4d6ebaa754406d98a|h=ACE5TIMBUNEZ5GMQTTSSWBGW3JPU4N4C|/
 ed2k://|file|[2006.02.06]National.Geographic.Channel.-.猩疯怒吼.[F63E707A].avi|366510080|7ea8b98a1ac0261882b24f8e97e61a57|h=5J75M47AOPTCUKJTPEA6PXTR7BCUE2MW|/
