@@ -1,4 +1,4 @@
-0: downloaded; 1: watched
+﻿0: downloaded; 1: watched
 ed2k://|file|[2013.09.30]Animal.Planet.-.拉美野生大地：亚马逊.(国语配音，子弹蚁！).[8B4049A6].mp4|330326167|9429341D254CBA267511E7A2FD6BA175|h=SLNDDNZSKDZTRREVKREFM26F2ODUOLNJ|/
 ed2k://|file|[2013.09.30]Animal.Planet.-.福岛：被遗忘的动物.(重播那么多次都只录到国语配音┅).[F156FE3E].mp4|171707148|60D980387CDB09F75F36CA78B608DB52|h=UGFRED2ZB2SBYLGCGKCNRRHBG5F4JWSX|/
 ed2k://|file|[2013.09.30]Discovery.Channel.-.万能改枪手第四季：争取合约.(你马的实境节目也能拍得这么戏剧化┅还是看蛋糕浪费天王吧！).[61DB9B11].mp4|332830569|ED4DBCBC7CE966FF2FA5BB2B52729B58|h=XLTZSDDP2PRMO2KNQPT2AZDMURYIXYCB|/
@@ -11841,7 +11841,7 @@ ed2k://|file|[2005.09.14]National.Geographic.Channel.-.奇闻大揭秘：幽浮�
 ed2k://|file|[2005.09.05]Discovery.Channel.-.撞击彗星.[AA3A9F64].avi|367073280|9f6f971c166d06090bc9dae162c782ea|h=KNMFCEWGRTF3IB2SX7W7SIFM3YFV35IQ|/
 ed2k://|file|[2005.09.04]National.Geographic.Channel.-.外星人报到：蓝月.[2E210856].avi|366966784|8dc9d153c7229ef504efd668f92183b8|h=BGPX46NCOJ3PMZWIKV4O2YHSFQA7QVMF|/
 ed2k://|file|[2005.09.02]Discovery.Channel.-.赛车意外.[DFAD713C].avi|366723072|631e973b4099afb0e00fd77c1fd54f4f|h=6KWR2OS2NONTNGUHVGAHL4VQRYGIKD3Q|/
-ed2k://|file|[2005.09.01]Discovery.Channel.-.历史谜团：韩航.007.号航班.[06A9E096].avi|366925824|252deb8a5f4e1db2f84cbae5be2cd843|h=OVYM2OOEYFKKGXZEYVYBAGD4JUO6PXCO|/
+1,ed2k://|file|[2005.09.01]Discovery.Channel.-.历史谜团：韩航.007.号航班.[06A9E096].avi|366925824|252deb8a5f4e1db2f84cbae5be2cd843|h=OVYM2OOEYFKKGXZEYVYBAGD4JUO6PXCO|/
 0,ed2k://|file|[2005.08.31]Discovery.Channel.-.潜舰：魅影猎人.[94C160F1].avi|366262272|91240e762a7d225ee08047eec8118bfc|h=XQRELKE5MWOHJ7P4OETH2EZJRY656D6C|/
 0,ed2k://|file|[2005.08.30]National.Geographic.Channel.-.关爱无国界：恐惧的代价.[2FBCAD63].avi|733016064|6c07c63e6b9cf5a80019cd45bade109c|h=6ISYGNNLLQVEQKNLOAKZ2F3RHPQCKJUT|/
 0,ed2k://|file|[2005.08.30]Discovery.Channel.-.雷根号航舰：海上军火库.[BC6D1E90].avi|366692352|b63aa626a90cd3c1fda86488651a8c2a|h=EU7SVS5YPLUAFP5HMN3N6QNA6VRJBARI|/
