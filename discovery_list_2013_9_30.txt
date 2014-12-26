@@ -11759,12 +11759,12 @@ ed2k://|file|[2005.10.22]National.Geographic.Channel.-.桃太郎的黄金.[2B75E
 ed2k://|file|[2005.10.22]Discovery.Channel.-.推理探案：埋葬之谜.[0B76A5E5].avi|366979072|0efbb771f548342cc24e67c6ac2b7fee|h=WNNUCEJIB3MNPQR54CFR3BVX4NPWSELX|/
 ed2k://|file|[2005.10.22]Discovery.Channel.-.冤狱调查：#8.[435D4F67].avi|366788608|8a966ea2d93fd5c8a3ae073601f4c598|h=JXOK3VSGR3ZRSDOMVNYGPBBERYRKM2QG|/
 ed2k://|file|[2005.10.20]Discovery.Channel.-.太平洋战争：桂河.[D811B728].avi|366845952|34ca96341352cccc1fcaa81431caf63f|h=K4D7J2XH4NLF6N6QONPHIGHJDUAMCPLJ|/
-ed2k://|file|[2005.10.19]National.Geographic.Channel.-.奇闻大揭秘：麦田圈之谜.[32696824].avi|366583808|cfa40b49ac44acba57150d1bfdd195d4|h=DBK3MGMN25F2D2L5MHF7J6XAHYEM3PMZ|/
+0,ed2k://|file|[2005.10.19]National.Geographic.Channel.-.奇闻大揭秘：麦田圈之谜.[32696824].avi|366583808|cfa40b49ac44acba57150d1bfdd195d4|h=DBK3MGMN25F2D2L5MHF7J6XAHYEM3PMZ|/
 ed2k://|file|[2005.10.19]Discovery.Channel.-.真正的飞碟.[B93EEC48].avi|550428672|45f79b93d12f60a0edad2f69c06fe134|h=A226TGOHE6H4W77UKN2K24TIPCX6NJ3D|/
 ed2k://|file|[2005.10.18]National.Geographic.Channel.-.超级大野猪.[871AAB37].avi|366403584|f753c7203c57754eedb6e7c99e17a643|h=VB22EVPQ6O5XKH53YJ2N2FPPHL5K3S5U|/
 ed2k://|file|[2005.10.17]National.Geographic.Channel.-.关爱无国界：迢迢印度铁路.[0F329F41].avi|550131712|6f9482df5007dd665de0f7cdc4de2c28|h=QCIJELL73NRDXGFBKXP4XWSZEZVY6WGF|/
 ed2k://|file|[2005.10.15]National.Geographic.Channel.-.子宫内日记.(下).[7D4DF576].avi|367400960|d0ae55ff03e7d86d28101f8970344bdf|h=7VSQ32XSRQ3ESDC2Q2RAPUG62UEYDL7Z|/
-ed2k://|file|[2005.10.15]Discovery.Channel.-.推理探案：永不遗忘.[60DBF7E2].avi|366876672|d01632b7806bf61dfc3dcfee578482ab|h=246AXXMJWLSAQ5LETMXRM3BB3VQ2DGST|/
+1,ed2k://|file|[2005.10.15]Discovery.Channel.-.推理探案：永不遗忘.[60DBF7E2].avi|366876672|d01632b7806bf61dfc3dcfee578482ab|h=246AXXMJWLSAQ5LETMXRM3BB3VQ2DGST|/
 0,ed2k://|file|[2005.10.15]Discovery.Channel.-.冤狱调查：#7.[27D0DF5A].avi|367075328|c9abe30a558b2c36e116a08492513e05|h=WW356FKXACKKG3ST4LH6232CZ6QFYNIC|/
 0,ed2k://|file|[2005.10.14]National.Geographic.Channel.-.尼安德塔人之谜.[5136C6D9].avi|366987264|1379b7f52da31b258d61f1b1af10fd17|h=TILZIOLJFITNGQZ4YP5AY3SXOALVEEBW|/
 0,ed2k://|file|[2005.10.10]Discovery.Channel.-.黎民伟：中国电影之父.[39D57445].avi|366837760|c920a9044dab86a03a926390f539d151|h=MTOWQ7QBA4JGKFTQCM3DUIOX6E6TIYTT|/
@@ -11838,9 +11838,9 @@ ed2k://|file|[2005.09.14]National.Geographic.Channel.-.奇闻大揭秘：幽浮�
 0,ed2k://|file|[2005.09.05]National.Geographic.Channel.-.关爱无国界：阿富汗少年.[D7BA4C8F].avi|733249536|f414c3a22fa27d84af562cb95034de4c|h=72MYNDGSRDQ2FU5RBIPDGXRQGB5LGNXX|/
 0,ed2k://|file|[2005.09.05]National.Geographic.Channel.-.太空任务.[9077AD0D].avi|366749696|64719e1ced3b5fccdf1d3bb6d3f9d0e0|h=HMRV7ILVQSRKNALVBYWNI6HHTLGYSKRV|/
 0,ed2k://|file|[2005.09.05]Discovery.Channel.-.美乐体育场工程意外.[FB8636B6].avi|366968832|979e74ed8055603fbc809ba10a0ec56b|h=SWGVBWEXNDQKDFUU75Y42Z2RQSMLFTNZ|/
-ed2k://|file|[2005.09.05]Discovery.Channel.-.撞击彗星.[AA3A9F64].avi|367073280|9f6f971c166d06090bc9dae162c782ea|h=KNMFCEWGRTF3IB2SX7W7SIFM3YFV35IQ|/
-ed2k://|file|[2005.09.04]National.Geographic.Channel.-.外星人报到：蓝月.[2E210856].avi|366966784|8dc9d153c7229ef504efd668f92183b8|h=BGPX46NCOJ3PMZWIKV4O2YHSFQA7QVMF|/
-ed2k://|file|[2005.09.02]Discovery.Channel.-.赛车意外.[DFAD713C].avi|366723072|631e973b4099afb0e00fd77c1fd54f4f|h=6KWR2OS2NONTNGUHVGAHL4VQRYGIKD3Q|/
+0,ed2k://|file|[2005.09.05]Discovery.Channel.-.撞击彗星.[AA3A9F64].avi|367073280|9f6f971c166d06090bc9dae162c782ea|h=KNMFCEWGRTF3IB2SX7W7SIFM3YFV35IQ|/
+0,ed2k://|file|[2005.09.04]National.Geographic.Channel.-.外星人报到：蓝月.[2E210856].avi|366966784|8dc9d153c7229ef504efd668f92183b8|h=BGPX46NCOJ3PMZWIKV4O2YHSFQA7QVMF|/
+0,ed2k://|file|[2005.09.02]Discovery.Channel.-.赛车意外.[DFAD713C].avi|366723072|631e973b4099afb0e00fd77c1fd54f4f|h=6KWR2OS2NONTNGUHVGAHL4VQRYGIKD3Q|/
 1,ed2k://|file|[2005.09.01]Discovery.Channel.-.历史谜团：韩航.007.号航班.[06A9E096].avi|366925824|252deb8a5f4e1db2f84cbae5be2cd843|h=OVYM2OOEYFKKGXZEYVYBAGD4JUO6PXCO|/
 0,ed2k://|file|[2005.08.31]Discovery.Channel.-.潜舰：魅影猎人.[94C160F1].avi|366262272|91240e762a7d225ee08047eec8118bfc|h=XQRELKE5MWOHJ7P4OETH2EZJRY656D6C|/
 0,ed2k://|file|[2005.08.30]National.Geographic.Channel.-.关爱无国界：恐惧的代价.[2FBCAD63].avi|733016064|6c07c63e6b9cf5a80019cd45bade109c|h=6ISYGNNLLQVEQKNLOAKZ2F3RHPQCKJUT|/
@@ -11865,7 +11865,7 @@ ed2k://|file|[2005.09.02]Discovery.Channel.-.赛车意外.[DFAD713C].avi|3667230
 0,ed2k://|file|[2005.08.13]Discovery.Channel.-.空前绝後：震撼大爆炸.[FBF7D46F].avi|366161920|858e3da458d8e17f0797d0e8eaddad91|h=S3H7E7YMT5MTVS2NW5WRASRDEFUHFRQH|/
 0,ed2k://|file|[2005.08.12]National.Geographic.Channel.-.黛安佛西与高山大猩猩.[D52A634F].avi|365977600|0c8d1fc7a6a9363d18434c3d68240edf|h=JMEFUHSPAP67KQ6YPJR6TACLCV3ZAPK2|/
 1,ed2k://|file|[2005.08.06]Discovery.Channel.-.二次大战浩劫录美国篇：1.迟来的怒火(Purple.TV.600.硬压版).[1231E12A].avi|733655040|24382f0d867567ff82ce016dcf0a2d4b|h=2JJP25KALGA7CXXMIQQ44LH3I4TPYQRD|/
-ed2k://|file|[2005.08.05]National.Geographic.Channel.-.国家地理飨宴：纳粹大探险.[32D407C4].avi|366168064|87992b61bbc3a9d117206dd5841b894d|h=HNVB2XAL25GJT5IPFFOGJZBCOK4QSJ3T|/
+0,ed2k://|file|[2005.08.05]National.Geographic.Channel.-.国家地理飨宴：纳粹大探险.[32D407C4].avi|366168064|87992b61bbc3a9d117206dd5841b894d|h=HNVB2XAL25GJT5IPFFOGJZBCOK4QSJ3T|/
 0,ed2k://|file|[2005.08.05]Discovery.Channel.-.先人的智慧：古埃及人.[20884429].avi|366020608|cd28d1f522435d8c229f822972523ee1|h=ORZ6LPY32NSOCKSO3FHQRNJE4HQOF5FB|/
 0,ed2k://|file|[2005.08.04]National.Geographic.Channel.-.黑手党风云：终极教父.[94F931DB].avi|366264320|03a334d996fe987658052cf715ae2e95|h=ACLIGU6552SMOCY6U2HLHRVEG355NJUB|/
 0,ed2k://|file|[2005.07.28]Discovery.Channel.-.蛇蝎女人：仇杀.[CF676BE9].avi|366182400|2f322376d8a44ee72b269ac30b7d8f9c|h=JPURYZMBK5UXFDFZXOHVLQQ4AWBBVZYW|/
@@ -12010,12 +12010,12 @@ uncategoried
 [10.5.7][探索频道]【与巨兽共舞：恐龙时代前的地球】[KEPU.COM][中文字幕].mp4
 [10.6.30][国家地理]【大山猫危机】[NGFANS.COM][中文字幕].mp4
 [10.7.5][探索频道]【日本流行新势力】[KEPU.COM][中文字幕].mp4
-国家地理百年纪念典藏.001.埃及∶永恒之路.mkv
-国家地理百年纪念典藏.020.猫咪的秘密日记.mkv
-国家地理百年纪念典藏.023.狗儿真奇妙.mkv
-国家地理百年纪念典藏.038.白狼.mkv
-国家地理百年纪念典藏.049.猫谜.mkv
-国家地理百年纪念典藏.071.美国频临绝种动物.mkv
+1,国家地理百年纪念典藏.001.埃及∶永恒之路.mkv
+1,国家地理百年纪念典藏.020.猫咪的秘密日记.mkv
+1,国家地理百年纪念典藏.023.狗儿真奇妙.mkv
+1,国家地理百年纪念典藏.038.白狼.mkv
+1,国家地理百年纪念典藏.049.猫谜.mkv
+1,国家地理百年纪念典藏.071.美国频临绝种动物.mkv
 国家地理百年纪念典藏.079.美索不达米亚文明.mkv
 国家地理百年纪念典藏.080.西藏禁地.mkv
 国家地理百年纪念典藏.091.航向太空.mkv
