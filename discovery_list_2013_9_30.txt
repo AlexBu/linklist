@@ -11759,7 +11759,7 @@ ed2k://|file|[2005.10.22]National.Geographic.Channel.-.桃太郎的黄金.[2B75E
 ed2k://|file|[2005.10.22]Discovery.Channel.-.推理探案：埋葬之谜.[0B76A5E5].avi|366979072|0efbb771f548342cc24e67c6ac2b7fee|h=WNNUCEJIB3MNPQR54CFR3BVX4NPWSELX|/
 ed2k://|file|[2005.10.22]Discovery.Channel.-.冤狱调查：#8.[435D4F67].avi|366788608|8a966ea2d93fd5c8a3ae073601f4c598|h=JXOK3VSGR3ZRSDOMVNYGPBBERYRKM2QG|/
 ed2k://|file|[2005.10.20]Discovery.Channel.-.太平洋战争：桂河.[D811B728].avi|366845952|34ca96341352cccc1fcaa81431caf63f|h=K4D7J2XH4NLF6N6QONPHIGHJDUAMCPLJ|/
-0,ed2k://|file|[2005.10.19]National.Geographic.Channel.-.奇闻大揭秘：麦田圈之谜.[32696824].avi|366583808|cfa40b49ac44acba57150d1bfdd195d4|h=DBK3MGMN25F2D2L5MHF7J6XAHYEM3PMZ|/
+1,ed2k://|file|[2005.10.19]National.Geographic.Channel.-.奇闻大揭秘：麦田圈之谜.[32696824].avi|366583808|cfa40b49ac44acba57150d1bfdd195d4|h=DBK3MGMN25F2D2L5MHF7J6XAHYEM3PMZ|/
 ed2k://|file|[2005.10.19]Discovery.Channel.-.真正的飞碟.[B93EEC48].avi|550428672|45f79b93d12f60a0edad2f69c06fe134|h=A226TGOHE6H4W77UKN2K24TIPCX6NJ3D|/
 ed2k://|file|[2005.10.18]National.Geographic.Channel.-.超级大野猪.[871AAB37].avi|366403584|f753c7203c57754eedb6e7c99e17a643|h=VB22EVPQ6O5XKH53YJ2N2FPPHL5K3S5U|/
 ed2k://|file|[2005.10.17]National.Geographic.Channel.-.关爱无国界：迢迢印度铁路.[0F329F41].avi|550131712|6f9482df5007dd665de0f7cdc4de2c28|h=QCIJELL73NRDXGFBKXP4XWSZEZVY6WGF|/
