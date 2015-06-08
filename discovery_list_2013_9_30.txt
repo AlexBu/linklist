@@ -10854,7 +10854,7 @@ ed2k://|file|[2007.01.02]National.Geographic.Channel.-.疯狂实验室：第九�
 ed2k://|file|[2007.01.02]National.Geographic.Channel.-.疯狂实验室：第十集.[1ED3B3DC].avi|110133248|4a6a098ed2a7def7f1320b9267589903|h=LPAFET4PMXXSAJSVL64O6TJSXRM2RU36|/
 ed2k://|file|[2007.01.01]Discovery.Channel.-.地球脉动：雄伟高山.[480D6649].avi|209815552|814056909419d6a1786fabd7fc1535de|h=D22PJUIMCUZQZU4BAVZLM4XZD4OMMROE|/
 ed2k://|file|[2007.01.01]Discovery.Channel.-.亚洲玄秘世界：印度.[66816A64].avi|220262400|0953617e6ac829bbcf00569013db29c3|/
-0,ed2k://|file|[2007.01.01]National.Geographic.Channel.-.生存蠃家：幸存者.[2DD5D05A].avi|219652096|efdafd304a71a3220c192821d18b3005|/
+1,ed2k://|file|[2007.01.01]National.Geographic.Channel.-.生存蠃家：幸存者.[2DD5D05A].avi|219652096|efdafd304a71a3220c192821d18b3005|/
 ed2k://|file|[2006.12.31]Discovery.Channel.-.建筑奇观：南韩高速铁路.[5027DFE5].avi|278398976|c8d604cc5543ffd378ae1cf8ebbf5d09|h=GWZ6PCN67P56N5UGUGABK2XOA7TV5CKE|/
 ed2k://|file|[2006.12.31]Discovery.Channel.-.军武科技排行榜：十大直升机.[91AA0DC2].avi|210276352|a15e6fa7efd987eaef092ceb702be2f5|h=DYTDY5GB2WZRIEJYTXGLTMA4X6NWVTKH|/
 ed2k://|file|[2006.12.29]Discovery.Channel.-.推理探案：夺命邂逅.[1489DE37].avi|290148352|a6d8059211b84a57d90ae96cf6f7059c|h=IE4UIJRYFVB2YI3F5YCNN7CAN3WZIWZD|/
