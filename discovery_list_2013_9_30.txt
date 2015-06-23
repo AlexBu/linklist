@@ -7369,7 +7369,7 @@ ed2k://|file|[2010.04.10]National Geographic Channel - 狗之初 (国语配音) 
 ed2k://|file|[2010.04.10]National Geographic Channel - 邮轮日记：倒数计时 [72E94DE7].mp4|354327203|2AA8DA5A1113C4871E0D7431241597D2|h=GHJ4BYRSC26ZUQMETIQLA6QWGWAET427|/
 ed2k://|file|[2010.04.09]Discovery Channel - 台湾鲨鱼实录 [01336CED].mp4|357510147|52C156968751638896715A6FF4A7AA79|h=RO56SC3C3KNJR4ZI3C2KOXIIXUYK34M6|/
 ed2k://|file|[2010.04.09]National Geographic Channel - 海中闪电侠 [51CAAEB5].mp4|360168235|CF33018676FFBBB7BDF28A6FD2ACCDCB|h=H3FVVGIZNKAQ6VAXGXDWVQNB4JDV6WMR|/
-0,ed2k://|file|[2010.04.09]National Geographic Channel - 摩西十灾的秘密：最初的诅咒 [2E7D3B58].mp4|360781193|4CF87AB28AED2DCE3309FCB404F1DE5E|h=JTKNACGR5YTIT6TUVG2IK6IYX3GFHFDU|/
+1,ed2k://|file|[2010.04.09]National Geographic Channel - 摩西十灾的秘密：最初的诅咒 [2E7D3B58].mp4|360781193|4CF87AB28AED2DCE3309FCB404F1DE5E|h=JTKNACGR5YTIT6TUVG2IK6IYX3GFHFDU|/
 ed2k://|file|[2010.04.08]Discovery Channel - 全球首选绿住家：自然树屋 [FC3A5908].mp4|174853183|9A305DAFFD951549FC8F031CD03ADF1D|h=V4EFZXB6QHXKNTJOXTSAJUPNUQEJFDE6|/
 ed2k://|file|[2010.04.08]Discovery Channel - 全球首选绿住家：零化学绿建材 [05070F35].mp4|176391616|2A5713C25DFB74811C1E055134457293|h=HJFVHGBTTLOJ3DSUEVJEXR5DZYJNLDGS|/
 ed2k://|file|[2010.04.08]Discovery Channel - 全球首选绿住家：旧屋翻新 [7CB2AF6B].mp4|175986337|6FE4823AA94A9D6B0B50481B15685443|h=Q2MZ7KVMCYB4IFM2QVU36YWYOOOVI64M|/
@@ -11868,9 +11868,9 @@ ed2k://|file|[2005.09.14]National.Geographic.Channel.-.奇闻大揭秘：幽浮�
 0,ed2k://|file|[2005.08.05]National.Geographic.Channel.-.国家地理飨宴：纳粹大探险.[32D407C4].avi|366168064|87992b61bbc3a9d117206dd5841b894d|h=HNVB2XAL25GJT5IPFFOGJZBCOK4QSJ3T|/
 0,ed2k://|file|[2005.08.05]Discovery.Channel.-.先人的智慧：古埃及人.[20884429].avi|366020608|cd28d1f522435d8c229f822972523ee1|h=ORZ6LPY32NSOCKSO3FHQRNJE4HQOF5FB|/
 1,ed2k://|file|[2005.08.04]National.Geographic.Channel.-.黑手党风云：终极教父.[94F931DB].avi|366264320|03a334d996fe987658052cf715ae2e95|h=ACLIGU6552SMOCY6U2HLHRVEG355NJUB|/
-0,ed2k://|file|[2005.07.28]Discovery.Channel.-.蛇蝎女人：仇杀.[CF676BE9].avi|366182400|2f322376d8a44ee72b269ac30b7d8f9c|h=JPURYZMBK5UXFDFZXOHVLQQ4AWBBVZYW|/
+1,ed2k://|file|[2005.07.28]Discovery.Channel.-.蛇蝎女人：仇杀.[CF676BE9].avi|366182400|2f322376d8a44ee72b269ac30b7d8f9c|h=JPURYZMBK5UXFDFZXOHVLQQ4AWBBVZYW|/
 1,ed2k://|file|[2005.07.27]National.Geographic.Channel.-.黑手党风云：致命背叛.[E310431B].avi|365785088|3dbd81fc212f0ef728ed5fbd4a138d86|h=VQ4M5YBNUD237FGXUVFE7JKM57X2WWHS|/
-0,ed2k://|file|[2005.07.27]Discovery.Channel.-.蛇蝎女人：财杀.[C9DE6CB3].avi|366198784|202baf7aa3dca8e7652c6fdd54df0697|h=JX6OTOECNLN2FWT2YJUDUXDSXZ2DKFQ6|/
+1,ed2k://|file|[2005.07.27]Discovery.Channel.-.蛇蝎女人：财杀.[C9DE6CB3].avi|366198784|202baf7aa3dca8e7652c6fdd54df0697|h=JX6OTOECNLN2FWT2YJUDUXDSXZ2DKFQ6|/
 0,ed2k://|file|[2005.07.27]Discovery.Channel.-.先人的智慧：古罗马人.[120E405F].avi|366692352|65bba591b8a9688aa73c0c76af4a4282|h=DWQNMK6SKUACOYHHEE3IYOLTAI5QE3L7|/
 1,ed2k://|file|[2005.07.26]Discovery.Channel.-.蛇蝎女人：情杀.[FDA0374E].avi|365971456|c3d15bb0f76dae9cbb913676ba5b5cd9|h=EF64XIKUWDECNH45P3KVFFDLWUKZJU7O|/
 0,ed2k://|file|[2005.07.23]National.Geographic.Channel.-.前进丛林：科技看丛林.[C0B70360].avi|366376960|098df02988c189f9128be2b64654638d|h=KDOFQ4S3A4MQZRRJB5FZLU5HWZI77DCB|/
