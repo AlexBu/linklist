@@ -11866,7 +11866,7 @@ ed2k://|file|[2005.09.14]National.Geographic.Channel.-.奇闻大揭秘：幽浮�
 0,ed2k://|file|[2005.08.12]National.Geographic.Channel.-.黛安佛西与高山大猩猩.[D52A634F].avi|365977600|0c8d1fc7a6a9363d18434c3d68240edf|h=JMEFUHSPAP67KQ6YPJR6TACLCV3ZAPK2|/
 1,ed2k://|file|[2005.08.06]Discovery.Channel.-.二次大战浩劫录美国篇：1.迟来的怒火(Purple.TV.600.硬压版).[1231E12A].avi|733655040|24382f0d867567ff82ce016dcf0a2d4b|h=2JJP25KALGA7CXXMIQQ44LH3I4TPYQRD|/
 0,ed2k://|file|[2005.08.05]National.Geographic.Channel.-.国家地理飨宴：纳粹大探险.[32D407C4].avi|366168064|87992b61bbc3a9d117206dd5841b894d|h=HNVB2XAL25GJT5IPFFOGJZBCOK4QSJ3T|/
-0,ed2k://|file|[2005.08.05]Discovery.Channel.-.先人的智慧：古埃及人.[20884429].avi|366020608|cd28d1f522435d8c229f822972523ee1|h=ORZ6LPY32NSOCKSO3FHQRNJE4HQOF5FB|/
+1,ed2k://|file|[2005.08.05]Discovery.Channel.-.先人的智慧：古埃及人.[20884429].avi|366020608|cd28d1f522435d8c229f822972523ee1|h=ORZ6LPY32NSOCKSO3FHQRNJE4HQOF5FB|/
 1,ed2k://|file|[2005.08.04]National.Geographic.Channel.-.黑手党风云：终极教父.[94F931DB].avi|366264320|03a334d996fe987658052cf715ae2e95|h=ACLIGU6552SMOCY6U2HLHRVEG355NJUB|/
 1,ed2k://|file|[2005.07.28]Discovery.Channel.-.蛇蝎女人：仇杀.[CF676BE9].avi|366182400|2f322376d8a44ee72b269ac30b7d8f9c|h=JPURYZMBK5UXFDFZXOHVLQQ4AWBBVZYW|/
 1,ed2k://|file|[2005.07.27]National.Geographic.Channel.-.黑手党风云：致命背叛.[E310431B].avi|365785088|3dbd81fc212f0ef728ed5fbd4a138d86|h=VQ4M5YBNUD237FGXUVFE7JKM57X2WWHS|/
