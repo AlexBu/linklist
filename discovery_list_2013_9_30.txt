@@ -11876,7 +11876,7 @@ ed2k://|file|[2005.09.14]National.Geographic.Channel.-.奇闻大揭秘：幽浮�
 1,ed2k://|file|[2005.07.23]National.Geographic.Channel.-.前进丛林：科技看丛林.[C0B70360].avi|366376960|098df02988c189f9128be2b64654638d|h=KDOFQ4S3A4MQZRRJB5FZLU5HWZI77DCB|/
 1,ed2k://|file|[2005.07.20]National.Geographic.Channel.-.黑手党风云：横霸天下.[2DCD9DC1].avi|366127104|003343cca9eb44ee752663f4c4b3821f|h=VFMDGPZHBZB5YF5FV4A7YOPZFS2YHNZI|/
 0,ed2k://|file|[2005.07.20]National.Geographic.Channel.-.埃及拿破仑.[37688772].avi|366944256|7ec6c773b204b2d481e43b52d4a00bff|h=FC2O32RLRDFWIGTTDCGGOM7N5CQ5OBO6|/
-0,ed2k://|file|[2005.07.20]Discovery.Channel.-.人类文明录：重现帝王谷.[56C656FF].avi|365983744|f2473612ef1bf68c7d8085b1de4a1a64|h=VKJ3CGC67AJLBETYL52VIQEYH2EVFVA3|/
+1,ed2k://|file|[2005.07.20]Discovery.Channel.-.人类文明录：重现帝王谷.[56C656FF].avi|365983744|f2473612ef1bf68c7d8085b1de4a1a64|h=VKJ3CGC67AJLBETYL52VIQEYH2EVFVA3|/
 1,ed2k://|file|[2005.07.18]Discovery.Channel.-.外星异世界.[B5A3B0F3].avi|732928000|ea134fa82bb161a52358e37d0b8284f5|h=KFTUSFKY5OOIPNSQXM7GRPVUSY3FEVMK|/
 1,ed2k://|file|[2005.07.17]National.Geographic.Channel.-.解开达文西密码.[DC5E6771].avi|732596224|2d6d9ef2529045c2d8e50428afa0ea2d|h=RHKVETRKQCZHN2PVAAA5MWDNNRLS5T7L|/
 1,ed2k://|file|[2005.07.14]National.Geographic.Channel.-.黑手党风云：风起云涌.[82060E33].avi|366635008|fbf1cc3e79911a2c4c0f4fb1628c3d1b|h=Z5D7Z6B3UW6GM6OPKAMXBWUBWP2F56ZM|/
