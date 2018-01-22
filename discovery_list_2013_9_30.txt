@@ -11865,7 +11865,7 @@ ed2k://|file|[2005.09.14]National.Geographic.Channel.-.奇闻大揭秘：幽浮�
 0,ed2k://|file|[2005.08.15]Discovery.Channel.-.电影香江：武侠片.[B7730708].avi|367079424|ce07209b2b263402ae62476d2ad13b01|h=JSEE66AI2E667RWVJMRZGYZ6NKXTBUEX|/
 0,ed2k://|file|[2005.08.15]Discovery.Channel.-.二次大战浩劫录：诺曼第登陆.[C05266E1].avi|733849600|2c128c4853ff55c09684343fedecab96|h=PJHG37IJBCLSEIOQX7SUN3VEPSS6FH2S|/
 1,ed2k://|file|[2005.08.14]Discovery.Channel.-.红裤子：香港特技打仔的生活.[44277F33].avi|366716928|019fb14f471ae7f7146cb2490a2e33f3|h=A3X5HT75VQKT5HKHAADXNMM7RXFQXPAY|/
-0,ed2k://|file|[2005.08.13]National.Geographic.Channel.-.太平洋胜利之路.[EB5B3047].avi|733829120|62901cf99280f99bfc65f4dd6b3addcb|h=7J3GZD55PVSAAU7SQKPZAOII7GHGJUCM|/
+1,ed2k://|file|[2005.08.13]National.Geographic.Channel.-.太平洋胜利之路.[EB5B3047].avi|733829120|62901cf99280f99bfc65f4dd6b3addcb|h=7J3GZD55PVSAAU7SQKPZAOII7GHGJUCM|/
 1,ed2k://|file|[2005.08.13]Discovery.Channel.-.空前绝後：震撼大爆炸.[FBF7D46F].avi|366161920|858e3da458d8e17f0797d0e8eaddad91|h=S3H7E7YMT5MTVS2NW5WRASRDEFUHFRQH|/
 1,ed2k://|file|[2005.08.12]National.Geographic.Channel.-.黛安佛西与高山大猩猩.[D52A634F].avi|365977600|0c8d1fc7a6a9363d18434c3d68240edf|h=JMEFUHSPAP67KQ6YPJR6TACLCV3ZAPK2|/
 1,ed2k://|file|[2005.08.06]Discovery.Channel.-.二次大战浩劫录美国篇：1.迟来的怒火(Purple.TV.600.硬压版).[1231E12A].avi|733655040|24382f0d867567ff82ce016dcf0a2d4b|h=2JJP25KALGA7CXXMIQQ44LH3I4TPYQRD|/
