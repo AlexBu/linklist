@@ -1,4 +1,4 @@
-﻿0: downloaded; 1: watched
+﻿0: downloaded; 1: watched; 2: English title found
 
 Discovery
 Bone Detectives: <1 - 11>, <1>
@@ -11860,10 +11860,10 @@ ed2k://|file|[2005.09.15]Discovery.Channel.-.塔克拉马干失落古城.[656272
 0,ed2k://|file|[2005.08.18]Discovery.Channel.-.空中巨无霸：打造.A380.客机.(3).[F6DC590D].avi|366559232|4c3f4b2e4e063f9cef15db9aa88fd08a|h=JCXU3AWSBBEJCZ6OOKVS3N3ACWEFFCHD|/
 0,ed2k://|file|[2005.08.17]Discovery.Channel.-.空中巨无霸：打造.A380.客机.(2).[AF2262F8].avi|366522368|13ced3d295aadda645318d787f411096|h=VDAN2IB5KCVYG6IVS72RIFWEQFB2JQJD|/
 0,ed2k://|file|[2005.08.17]Discovery.Channel.-.空中巨无霸：打造.A380.客机.(1).[6A6EC4DB].avi|366524416|e7fcbc4dbdfcdb787bf77e17d31c46f4|h=NUKZHIHRI3XOSGCEWYRHUTRLRZ4PVAYK|/
-0,ed2k://|file|[2005.08.16]National.Geographic.Channel.-.希特勒的科学家.[279CD196].avi|366972928|825245439350586d645cfed2b56b7b24|h=J47PZMHXVV3UNWIYG3YXKYX3B7WJDHMZ|/
-0,ed2k://|file|[2005.08.16]Discovery.Channel.-.二次大战特辑：广岛原爆浩劫.[EC3B6408].avi|732506112|46fdeb12fa6bb04663a8af115b75bbe8|h=A76S6ZGDHJ4WVW6DAIIQZOTWGSRUN6JR|/
-1,ed2k://|file|[2005.08.15]Discovery.Channel.-.电影香江：武侠片.[B7730708].avi|367079424|ce07209b2b263402ae62476d2ad13b01|h=JSEE66AI2E667RWVJMRZGYZ6NKXTBUEX|/
-1,ed2k://|file|[2005.08.15]Discovery.Channel.-.二次大战浩劫录：诺曼第登陆.[C05266E1].avi|733849600|2c128c4853ff55c09684343fedecab96|h=PJHG37IJBCLSEIOQX7SUN3VEPSS6FH2S|/
+2,ed2k://|file|[2005.08.16]National.Geographic.Channel.-.希特勒的科学家.[279CD196].avi|366972928|825245439350586d645cfed2b56b7b24|h=J47PZMHXVV3UNWIYG3YXKYX3B7WJDHMZ|/
+2,ed2k://|file|[2005.08.16]Discovery.Channel.-.二次大战特辑：广岛原爆浩劫.[EC3B6408].avi|732506112|46fdeb12fa6bb04663a8af115b75bbe8|h=A76S6ZGDHJ4WVW6DAIIQZOTWGSRUN6JR|/
+2,ed2k://|file|[2005.08.15]Discovery.Channel.-.电影香江：武侠片.[B7730708].avi|367079424|ce07209b2b263402ae62476d2ad13b01|h=JSEE66AI2E667RWVJMRZGYZ6NKXTBUEX|/
+2,ed2k://|file|[2005.08.15]Discovery.Channel.-.二次大战浩劫录：诺曼第登陆.[C05266E1].avi|733849600|2c128c4853ff55c09684343fedecab96|h=PJHG37IJBCLSEIOQX7SUN3VEPSS6FH2S|/
 1,ed2k://|file|[2005.08.14]Discovery.Channel.-.红裤子：香港特技打仔的生活.[44277F33].avi|366716928|019fb14f471ae7f7146cb2490a2e33f3|h=A3X5HT75VQKT5HKHAADXNMM7RXFQXPAY|/
 1,ed2k://|file|[2005.08.13]National.Geographic.Channel.-.太平洋胜利之路.[EB5B3047].avi|733829120|62901cf99280f99bfc65f4dd6b3addcb|h=7J3GZD55PVSAAU7SQKPZAOII7GHGJUCM|/
 1,ed2k://|file|[2005.08.13]Discovery.Channel.-.空前绝後：震撼大爆炸.[FBF7D46F].avi|366161920|858e3da458d8e17f0797d0e8eaddad91|h=S3H7E7YMT5MTVS2NW5WRASRDEFUHFRQH|/
@@ -11926,19 +11926,19 @@ ed2k://|file|[2005.09.15]Discovery.Channel.-.塔克拉马干失落古城.[656272
 1,ed2k://|file|[2005.06.09]Discovery.Channel.-.伴我高飞：空服员的历史.[7FA658D2].avi|366782464|bdd7b88951d1a1c66570efdfc49ced94|h=AHBVSF2EW4GN7NW4RC5UV6PMPYEBFQIS|/
 1,ed2k://|file|[2005.06.08]Discovery.Channel.-.星际大战的科学启发：太空牛仔.[52661A17].avi|366536704|34120689484cd792c258d5106ef58918|h=6HK5EPXFKMHAR2J23X6NQBH4ZE6775C3|/
 1,ed2k://|file|[2005.06.07]Discovery.Channel.-.星际大战的科学启发：战争，武器与原力.[EBED600C].avi|366821376|e5906abbc7e289b2a2244f0c22f03b94|h=EVQ2JEXIVWKHVBSFCR2EOQTLKW5LXVWE|/
-1,ed2k://|file|[2005.06.07]二次大战浩劫录片头配乐.[8A5FB84F].mp3|3646080|43e742bc60b729081ec0c49bea03b044|h=KFEEDLNSSCZEQDT4OP5WWOETMLIX3VJY|/
-1,ed2k://|file|[2005.06.07]二次大战浩劫录片尾配乐.[F303F610].mp3|1346764|61db2ffb97a6f629082a0984c5e4eaf3|h=ZL2OXLGCTQ7YBNBZJMTVIBEGAGA527LX|/
+2,ed2k://|file|[2005.06.07]二次大战浩劫录片头配乐.[8A5FB84F].mp3|3646080|43e742bc60b729081ec0c49bea03b044|h=KFEEDLNSSCZEQDT4OP5WWOETMLIX3VJY|/
+2,ed2k://|file|[2005.06.07]二次大战浩劫录片尾配乐.[F303F610].mp3|1346764|61db2ffb97a6f629082a0984c5e4eaf3|h=ZL2OXLGCTQ7YBNBZJMTVIBEGAGA527LX|/
 1,ed2k://|file|[2005.06.02]Discovery.Channel.-.宇宙之眼.[F07F9386].avi|367093760|d2f776264d73783b313584e4dd9ed675|h=IUX7VDAF3K7EI3PTZZEGLEOZ4SXLYI5K|/
 1,ed2k://|file|[2005.06.01]Discovery.Channel.-.尼泊尔王室血案.[C25C3D49].avi|367065088|411e594f83390543f5c39d871dae6add|h=XY2BREKQIDDC674TB6YDVUD7QZBMUY7H|/
-1,ed2k://|file|The.Second.World.War.in.Colour.-.1.A.New.World.Order.[311CD794].rar|597762|dd6cc2b710e5ee225326f04947df9a1c|h=6PLOLLFVWP6S5NIW4SYL54IA6LEOBHDZ|/
-1,ed2k://|file|The.Second.World.War.in.Colour.-.1.A.New.World.Order.[A7D75DC0].avi|733644800|d31898d9bf026f2767fd963ff38f16cd|h=AKUUTZ6TRLRJZAMSIU34JU33U5DLGBGR|/
-1,ed2k://|file|The.Second.World.War.in.Colour.-.1.A.New.World.Order.[A7D75DC0].srt|115906|42353d6553565041495a3adda22738f8|h=GZ24IIWNHTSPO6XDZVKISYDHQOUMSK46|/
-1,ed2k://|file|The.Second.World.War.in.Colour.-.2.Total.War.[DD8CFBA7].rar|566938|edc7f7b52cdb8b9269f93bd0a277b864|h=345MCABVDHJLYTVA3MPTZKVWAUF7Q23D|/
-1,ed2k://|file|The.Second.World.War.in.Colour.-.2.Total.War.[E9C33F70].avi|733229056|e5ddab5b4805cd395280bf64fbe2f5fc|h=UUSZOSQQPA4KVR2ZQ77H7ODGLDZ72SHU|/
-1,ed2k://|file|The.Second.World.War.in.Colour.-.2.Total.War.[E9C33F70].srt|105192|dbdf0ad964e7b3a5ef06e11d9669f7c2|h=2UJHDFT6FKXVW7IWSJTFMUYRTG4SDVYO|/
-1,ed2k://|file|The.Second.World.War.in.Colour.-.3.Triumph.and.Despair.[8F195994].rar|525978|54c24adba70cf1c1daa96e5f32a3227a|h=374YZBSWEIWWP65YXGAR3V7KSCPABPCB|/
-1,ed2k://|file|The.Second.World.War.in.Colour.-.3.Triumph.and.Despair.[C38B6499].avi|733466624|02477adacd9c7e6ca85846642a19d3ec|h=S2MHSNOPN3OT2A7L3UY6I4NIDXAPQD7P|/
-1,ed2k://|file|The.Second.World.War.in.Colour.-.3.Triumph.and.Despair.[C38B6499].srt|103650|b215bed0b497b00086e8fea3fea01cf9|h=G2MPDLIZGCE3RKKJHKL2SOHCEM6L7NCD|/
+2,ed2k://|file|The.Second.World.War.in.Colour.-.1.A.New.World.Order.[311CD794].rar|597762|dd6cc2b710e5ee225326f04947df9a1c|h=6PLOLLFVWP6S5NIW4SYL54IA6LEOBHDZ|/
+2,ed2k://|file|The.Second.World.War.in.Colour.-.1.A.New.World.Order.[A7D75DC0].avi|733644800|d31898d9bf026f2767fd963ff38f16cd|h=AKUUTZ6TRLRJZAMSIU34JU33U5DLGBGR|/
+2,ed2k://|file|The.Second.World.War.in.Colour.-.1.A.New.World.Order.[A7D75DC0].srt|115906|42353d6553565041495a3adda22738f8|h=GZ24IIWNHTSPO6XDZVKISYDHQOUMSK46|/
+2,ed2k://|file|The.Second.World.War.in.Colour.-.2.Total.War.[DD8CFBA7].rar|566938|edc7f7b52cdb8b9269f93bd0a277b864|h=345MCABVDHJLYTVA3MPTZKVWAUF7Q23D|/
+2,ed2k://|file|The.Second.World.War.in.Colour.-.2.Total.War.[E9C33F70].avi|733229056|e5ddab5b4805cd395280bf64fbe2f5fc|h=UUSZOSQQPA4KVR2ZQ77H7ODGLDZ72SHU|/
+2,ed2k://|file|The.Second.World.War.in.Colour.-.2.Total.War.[E9C33F70].srt|105192|dbdf0ad964e7b3a5ef06e11d9669f7c2|h=2UJHDFT6FKXVW7IWSJTFMUYRTG4SDVYO|/
+2,ed2k://|file|The.Second.World.War.in.Colour.-.3.Triumph.and.Despair.[8F195994].rar|525978|54c24adba70cf1c1daa96e5f32a3227a|h=374YZBSWEIWWP65YXGAR3V7KSCPABPCB|/
+2,ed2k://|file|The.Second.World.War.in.Colour.-.3.Triumph.and.Despair.[C38B6499].avi|733466624|02477adacd9c7e6ca85846642a19d3ec|h=S2MHSNOPN3OT2A7L3UY6I4NIDXAPQD7P|/
+2,ed2k://|file|The.Second.World.War.in.Colour.-.3.Triumph.and.Despair.[C38B6499].srt|103650|b215bed0b497b00086e8fea3fea01cf9|h=G2MPDLIZGCE3RKKJHKL2SOHCEM6L7NCD|/
 1,ed2k://|file|重回历史关头.-.谋杀希特勒.[213A0034].avi|735901696|4df5e6ddae110a8fb7fe5d3a03f4100e|h=473IFKZ5DEKAKJKNBUXLAPLSL3XFUGCP|/
 1,ed2k://|file|二次大战浩劫录英国篇.-.3.无名战士.[8DD5CB1B].avi|735297536|739b8d732c80ea1684e517b1be482b04|h=SPYLVDZSYZTHK5OINXUXGPS7WPLACIPX|/
 1,ed2k://|file|二次大战浩劫录英国篇.-.2.尽头的开始.[F1D242BB].avi|735074304|9a3f79805aa1486cde4fd2e9540950cd|h=IZYCLYL5WBKYJIY7P52S2YIQ4HON4M2S|/
@@ -11950,7 +11950,7 @@ ed2k://|file|[2005.09.15]Discovery.Channel.-.塔克拉马干失落古城.[656272
 1,ed2k://|file|二次大战浩劫录美国篇.-.1.迟来的怒火.v2.[E6D0D015].avi|733353984|0635149de1f88f44b2729ab58ae009d1|h=SNNERKZTC5XPXRGHJBQ4MCJXBRJP6IJI|/
 1,ed2k://|file|二次大战浩劫录日本篇.-.2.败战深渊.[16349CEF].avi|682682368|fe57aeaf674a63a2b320b84983cd7508|h=VDFGJFJZET6GNANRNUCANE2ZAQI4TWVA|/
 1,ed2k://|file|二次大战浩劫录日本篇.-.1.必胜决心.[14FF8B6B].avi|734965760|b9ca47670c393f18b0be3d7a262bed08|h=PQDMYZIETED77FIGQOJ4L6MQZFJ66TVA|/
-1,ed2k://|file|二次大战浩劫录.-.希特勒.[661D1F35].mkv|680155798|c26ba6b00f0564b9b665c0eb3884678d|h=UXACOIWWENFKZIXPKNV7NK5XUQGV4RLW|/
+2,ed2k://|file|二次大战浩劫录.-.希特勒.[661D1F35].mkv|680155798|c26ba6b00f0564b9b665c0eb3884678d|h=UXACOIWWENFKZIXPKNV7NK5XUQGV4RLW|/
 1,ed2k://|file|National.Geographic.Channel.-.终极演化：人竞天择.[251DAC64].avi|733485056|0d66a7aa836f9d61374e4f8998547b0c|h=4TCKQTPVIDU4BJPT44EHIB4PVJWFK5EO|/
 1,ed2k://|file|National.Geographic.Channel.-.第一保镳.[38DD74F5].avi|366929920|1179d0e4fb0ef10d2aed5c06aa0dc135|h=4WDDCFZY5ZNKQBJKXGBQ445DAWQELJC7|/
 1,ed2k://|file|National.Geographic.Channel.-.宇宙边缘：最後疆界.[7BA7D9A5].avi|367415296|1e4a0decca65448b8e4ec56a4e3d09f1|h=QPFJ7ASOKLKRAEKZMU5HBQ532G4ENHJW|/
@@ -11961,7 +11961,7 @@ ed2k://|file|[2005.09.15]Discovery.Channel.-.塔克拉马干失落古城.[656272
 1,ed2k://|file|Discovery.Channel.-.历史谜团：铁达尼号姊妹轮的诅咒.[19377316].avi|365524992|8f16db67f854333f365f6304d5fb3aab|h=LLORCOI4NMQNYYS4U43XW25575UN4PVO|/
 1,ed2k://|file|Discovery.Channel.-.历史从此改变：甘乃迪爆头一瞬间.[7D384B07].avi|9926656|7beae045486aab847344b012864fd5ea|h=3MMWZH5TS2V6TQ4NIHLBNF35PVDGK44P|/
 1,ed2k://|file|Discovery.Channel.-.潜舰.[1B42C54E].avi|367093760|f0dfc239e3f404bfdda093412cce3c26|h=6TT64ANHOH2AEK2JEOIPKR7WTSRCVKM5|/
-1,ed2k://|file|Discovery.Channel.-.电影香江：功夫片.[39A0FA99].avi|366606336|3bfe4c63e6339fef394d80c656c3325a|h=3VOTJDLA4V6IC6NXMKUQUBTVUH6KPBMI|/
+2,ed2k://|file|Discovery.Channel.-.电影香江：功夫片.[39A0FA99].avi|366606336|3bfe4c63e6339fef394d80c656c3325a|h=3VOTJDLA4V6IC6NXMKUQUBTVUH6KPBMI|/
 1,ed2k://|file|Discovery.Channel.-.新新科学观：考古之谜.[8B18872E].avi|368377856|a001a120f55680c6c2b0e6e90801af70|h=CSO6KF4IFOCCXEQFCIIZYH6NNVE5TWUI|/
 1,ed2k://|file|Discovery.Channel.-.寻找二战日本潜舰.[D6431272].avi|366792704|b404a8b34a9ca6aab327ffc360310b53|h=4LV22WA43HXQ2HDICSKSLELRY7PVXXGB|/
 1,ed2k://|file|Discovery.Channel.-.莫斯科人质危机.[6BF05B1F].avi|366159872|7489c8832912ca3915c55feee933c782|h=2R4YBMQNKKEEF66RMOK545B7TE4PF3Y2|/
@@ -11978,7 +11978,7 @@ ed2k://|file|[2005.09.15]Discovery.Channel.-.塔克拉马干失落古城.[656272
 1,ed2k://|file|Discovery.Channel.-.重现金字塔工程.[9CBD5BCE].avi|366491648|29945f28d19c8c7dfcfc7a18267d6ce6|h=YDTAZZOJ5H5CDFGWWXFP7Z6Y2QAIWZXM|/
 1,ed2k://|file|Discovery.Channel.-.重返古战场：血腥越战.[D66420B1].avi|366825472|d4ed92fa2169adf9c97927280b8de1f7|h=SK6P2OJXARDHKRZEM5SHEFI3TQZYMR3Z|/
 1,ed2k://|file|Discovery.Channel.-.军备总点名：火炮.v2.[34B3C008].avi|367237120|f1454e15cb60c4e47e6ed723d58571c0|h=ASFXJHMDT2LETWT4MYZTBXIW7QJF35HP|/
-1,ed2k://|file|Discovery.Channel.-.美女如云在邵氏.[6CB37ADA].avi|367007744|db8745266e827c46828c9a54078272db|h=VZKH2WJXWUAIE2J722YPTLA6VX4LDLBZ|/
+2,ed2k://|file|Discovery.Channel.-.美女如云在邵氏.[6CB37ADA].avi|367007744|db8745266e827c46828c9a54078272db|h=VZKH2WJXWUAIE2J722YPTLA6VX4LDLBZ|/
 1,ed2k://|file|Discovery.Channel.-.垂直起降战机.[215B2092].avi|367052800|961c4b250dc6793690db9c1b8c36f1cd|h=YDAMKDH3FE5NPZU6X7RCPFWZFV46WHHV|/
 1,ed2k://|file|Discovery.Channel.-.前进火星：人类的火星科技.[DC24B0FE].avi|366909440|386716dff612fd0fe3bd4146a17bef04|h=27TCBJPEJTXHOPV6OHBHSAOJ7XLFJM5O|/
 1,ed2k://|file|Discovery.Channel.-.东京沙林毒气攻击.[EF8F4417].avi|365647872|8a87ae887885a17394192b428e9020fc|h=ZOD3J34UD54XTKAKXNGPZO2RRJEAKDK3|/
@@ -12002,10 +12002,10 @@ ed2k://|file|[2005.09.15]Discovery.Channel.-.塔克拉马干失落古城.[656272
 1,ed2k://|file|Discovery.Channel.-.太空火球.[3939ED36].avi|367347712|b0af73a28b3edc56f2e1b8bc642fa91b|h=ZDDNIWW5SI7RTEOOKSFCWO5S6TGLBFK3|/
 1,ed2k://|file|Discovery.Channel.-.大和号战舰之谜.[D4ACE1C6].avi|367106048|bb8315e343d83f37c319e398ce25456f|h=QT6NFXNHGT5MLFDHX4SVEX6GGCJCCWLD|/
 1,ed2k://|file|Discovery.Channel.-.人类文明录：古代整型术.[E12FDDF6].avi|367292416|e034f3ed2574d072cce4b951ab331bf0|h=FBKSVTXMKSQ26GIASYCRJYSRT2PPGKDU|/
-1,ed2k://|file|Discovery.Channel.-.人面狮身像揭密.avi|366888960|d6ea8f7d7ed02ca5493d9fde2f0a14c3|h=GLCR7JDQYWLRAF5AMKR37ZWH7N3L5NTC|/
-1,ed2k://|file|Discovery.Channel.-.二次大战浩劫录：欧战胜利日.[72F06B18].avi|733833216|527f293afeb53a0e05c374bc8ee3388c|h=HTWX53OGE252A5YFWZL7M52N3NQGSSN7|/
+2,ed2k://|file|Discovery.Channel.-.人面狮身像揭密.avi|366888960|d6ea8f7d7ed02ca5493d9fde2f0a14c3|h=GLCR7JDQYWLRAF5AMKR37ZWH7N3L5NTC|/
+2,ed2k://|file|Discovery.Channel.-.二次大战浩劫录：欧战胜利日.[72F06B18].avi|733833216|527f293afeb53a0e05c374bc8ee3388c|h=HTWX53OGE252A5YFWZL7M52N3NQGSSN7|/
 1,ed2k://|file|Discovery.Channel.-.二次大战浩劫录.-.少年希特勒.[8A378CCE].avi|681693184|67097a249d3b0dc72fee976a3470274b|h=F4SRQHVGLM2UWNOZXUNDLECL6XTYJVDE|/
-1,ed2k://|file|Discovery.Channel.-.1421.年：中国发现新大陆.[AA0A0701].avi|736874496|d895abe90b8b04f163e0784417a992d1|h=5NMWOVILL5EUG5YBQNW7LKQ5X3U3VYOM|/
+2,ed2k://|file|Discovery.Channel.-.1421.年：中国发现新大陆.[AA0A0701].avi|736874496|d895abe90b8b04f163e0784417a992d1|h=5NMWOVILL5EUG5YBQNW7LKQ5X3U3VYOM|/
 
 uncategoried
 1,[10.5.12][探索频道]【重建人类社会：第5集：外来客入侵】[KEPU.COM][中文字幕].mp4
